@@ -23,7 +23,7 @@ A simple, responsive clone of the Amazon homepage built using HTML and CSS. This
 - Font Awesome / icon libraries
 
 
-## 📦 How to Use
+## 📦 How to Use 
 
 1. Clone the repository:
 
