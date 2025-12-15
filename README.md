@@ -19,7 +19,7 @@ A simple, responsive clone of the Amazon homepage built using HTML and CSS. This
 
 - HTML5
 - CSS3
-- Google Fonts (optional)
+- Google Fonts (optional) 
 - Font Awesome / icon libraries
 
 
