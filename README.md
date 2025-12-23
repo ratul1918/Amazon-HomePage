@@ -1,4 +1,4 @@
-# files still not completed yet 
+# files still not completed yet
 
 # Amazon Homepage Clone
 
