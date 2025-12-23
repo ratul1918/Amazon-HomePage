@@ -2,7 +2,7 @@
 
 # Amazon Homepage Clone
 
-A simple, responsive clone of the Amazon homepage built using HTML and CSS. This project is for educational and practice purposes only — no backend or JavaScript functionality is implemented.
+A simple, responsive clone of the Amazon homepage built using HTML and CSS. This project is for educational and practice purposes only — no backend or JavaScript functionality is implemented. 
 
 ## 📁 Project Structure
 
