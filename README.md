@@ -9,7 +9,7 @@ A simple, responsive clone of the Amazon homepage built using HTML and CSS. This
 ## 🚀 Features
 
 - Responsive layout
-- Header navigation bar
+- Header navigation bar 
 - Search bar and cart icon
 - Product cards with images and prices
 - Footer section
